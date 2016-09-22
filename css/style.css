@@ -28,9 +28,13 @@ h3 {
 
 body {
   font-family: Consolas,Arial,Arial,sans-serif;
-  background-color: lightcoral;
+  color: antiquewhite;
+  background-color: #404040;
 }
 
 a {
-  color:  antiquewhite;
+  color: #ed490a;
+  text-decoration: underline;
+  font-weight: bold;
+  /*font-size: 1.4em;*/
 }
