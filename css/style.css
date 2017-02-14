@@ -28,8 +28,10 @@ h3 {
 
 body {
   font-family: Consolas,Arial,Arial,sans-serif;
-  color: antiquewhite;
-  background-color: #404040;
+  /*color: antiquewhite;*/
+  color: black;
+  font-size: 1.8em;
+  background-color: #FDF3E7;
 }
 
 a {
